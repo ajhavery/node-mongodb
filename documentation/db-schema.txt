@@ -1,0 +1,12 @@
+Post
+------- Id
+------- Title
+------- Summary
+------- Body
+------- Date
+------- Authors: authorId + Name
+
+Authors
+------- Id
+------- Name
+------- Email
